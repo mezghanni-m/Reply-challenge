@@ -1,5 +1,6 @@
 # Documentation for Model Deployment Process in Azure ML
 
+
 ## Introduction:
 This document outlines the process of training and deploying a machine learning model using Azure Machine Learning (Azure ML) services. It covers the selection of the model, the resources and services utilized, the deployment process, and potential pitfalls to be aware of.
 
